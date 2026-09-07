@@ -2,7 +2,7 @@
 title = "Yajie Zhang website"
 +++
 
-{{< figure class="avatar" src="/avatar.jpg" alt="Yajie Zhang" >}}
+{{< figure class="avatar" src="/avatar.svg" alt="Yajie Zhang" >}}
 
 <div style="font-size: 2.2rem; font-weight: 700; line-height: 1.3;">Yajie Zhang</div>
 
