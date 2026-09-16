@@ -24,15 +24,17 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ## Publications
 
-<p style="margin-top: 1.2em;"><strong>A Multimodal Assay to Infer Body Temperature Set-Point Shifts in Freely Moving Mice</strong></p>
+<p style="margin-top: 1.2em;"><strong>[1] A Multimodal Assay to Infer Body Temperature Set-Point Shifts in Freely Moving Mice</strong></p>
 
 Yu Huang, Shikang Guan, **Yajie Zhang**, Fa Peng, Tong Guo, Jingyi Yao, Wenlong Li, Li Zhang, Lei Zhang, Tongfei Wang
 
 *Journal of Visualized Experiments*, (235), 2026 (Published) · [doi:10.3791/71693](https://doi.org/10.3791/71693)
 
-<p style="margin-top: 1.2em;"><strong>HIBER-MAP: a multimodal platform for high-throughput hibernation monitoring and arousal prediction in ground squirrels</strong></p>
+<p style="margin-top: 1.2em;"><strong>[2] HIBER-MAP: a multimodal platform for high-throughput hibernation monitoring and arousal prediction in ground squirrels</strong></p>
 
-Hao Huang, Qihui Jia, Wendi Shi, **Yajie Zhang**, Haojun Sang, Xin Xing, Yu Zhou, Xueting Sun, Lei Zhang, Tongfei A. Wang
+Hao Huang*, Qihui Jia*, Wendi Shi*, **Yajie Zhang**, Haojun Sang, Xin Xing, Yu Zhou, Xueting Sun, Lei Zhang, Tongfei A. Wang
+
+<p><small>* These authors contributed equally to this work.</small></p>
 
 [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279059) (Cell Press Sneak Peek), 2026 (Under Review)
 
