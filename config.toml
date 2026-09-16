@@ -9,12 +9,15 @@ disableKinds = ["taxonomy", "term"]
 [params]
     author = "Yajie Zhang"
     description = "Research Assistant @ WangLab (CIBR) · Hibernation"
+    favicon = "favicon.ico"
     [params.style]  # appearance options
         fontFamily = "Inconsolata"
-        fontSize = "14pt"
+        fontSize = "17px"
+        sansStack = "-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
         pageWidth = "750px"
+        avatarSize = "105px"
         colorBlack = "#222222"
-        colorRed = "#dc3545"
+        colorRed = "#1a4d8f"  # muted academic blue used for links, numbers, menu
     [[params.socialIcons]]
         icon = "fab fa-github"
         title = "GitHub"

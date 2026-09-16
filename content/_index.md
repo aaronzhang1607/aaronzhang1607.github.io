@@ -4,15 +4,15 @@ title = "Yajie Zhang website"
 
 {{< figure class="avatar" src="/avatar.svg" alt="Yajie Zhang" >}}
 
-<div style="font-size: 2.2rem; font-weight: 700; line-height: 1.3;">Yajie Zhang</div>
+<div class="site-name">Yajie Zhang</div>
 
-<div style="font-size: 1.1rem; margin-top: 0.2em;">Research Assistant @ WangLab (CIBR) · Hibernation</div>
+<div class="site-role">Research Assistant @ WangLab (CIBR) · Hibernation</div>
 
 ---
 
 **Chinese Institute for Brain Research, Beijing (CIBR)**, Changping District, Beijing, China
 
-Welcome to my personal website. Research notes and posts are collected under [Posts](/post/).
+Welcome to my website. Research notes and posts are collected under [Posts](/post/).
 
 ## Research Interest
 
@@ -47,7 +47,7 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ### Thermoregulation under Hibernation-like State in Rodents with Single-Cell Sequencing
 
-*Aug 2020 – Present · Adviser: Dr. Tongfei Wang · CIBR*
+<p class="experience-meta"><em>Aug 2020 – Present · Adviser: Dr. Tongfei Wang · CIBR</em></p>
 
 - Studying the hypothermia state by combining single-cell RNA-seq with behavioral analysis to understand temperature regulation mechanisms, using ground squirrel, mouse, and hamster.
 - With single-cell RNA sequencing, ground squirrel's POA and DMH cells show state-difference patterns. Further analysis with a high-quality reference genome for ground squirrel should find de novo markers for temperature regulation.
@@ -56,7 +56,7 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ### YTHDF2 Function in *Xenopus tropicalis*' Early Development
 
-*Bachelor Thesis · Jun 2019 – Jun 2020 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech*
+<p class="experience-meta"><em>Bachelor Thesis · Jun 2019 – Jun 2020 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech</em></p>
 
 - CRISPR/Cas9 knock-out of *ythdf2* in *Xenopus tropicalis* with phenotypic and genetic analysis.
 - First-generation *ythdf2*<sup>-/-</sup> animals show no difference from normal in overall developmental appearance.
@@ -65,7 +65,7 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ### The Function Analysis of TBX5 during Forelimb Formation and Heart Regeneration
 
-*Jun 2018 – Aug 2018 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech*
+<p class="experience-meta"><em>Jun 2018 – Aug 2018 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech</em></p>
 
 - Simulated human Holt–Oram syndrome in amphibian *Xenopus* by CRISPR/Cas9 knock-out of the *tbx5* gene.
 - *Xenopus* animal breeding and rearing; cross and genotyping for *tbx5* functional knock-out animals.
@@ -73,7 +73,7 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ### Kindlin2 in Breast Cancer Cell Migration
 
-*Oct 2017 – Jan 2018 · Adviser: Assoc. Prof. Ying Sun · SUSTech*
+<p class="experience-meta"><em>Oct 2017 – Jan 2018 · Adviser: Assoc. Prof. Ying Sun · SUSTech</em></p>
 
 - Used genetic and cell biology analysis to study how Kindlin2 expression affects breast cancer cell migration.
 - Cell culture and transplantation; immunofluorescence staining with Kindlin2 antibody.
