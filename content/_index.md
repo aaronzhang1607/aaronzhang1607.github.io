@@ -24,19 +24,24 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 ## Publications
 
-<p style="margin-top: 1.2em;"><strong>[1] A Multimodal Assay to Infer Body Temperature Set-Point Shifts in Freely Moving Mice</strong></p>
+<div style="display: grid; grid-template-columns: 2.8em 1fr; column-gap: 0.8em; margin-top: 1.4em;">
+<div style="text-align: right;">[1]</div>
+<div>
+<p style="margin: 0 0 0.4rem;"><strong>A Multimodal Assay to Infer Body Temperature Set-Point Shifts in Freely Moving Mice</strong></p>
+<p style="margin: 0 0 0.4rem;">Yu Huang, Shikang Guan, <strong>Yajie Zhang</strong>, Fa Peng, Tong Guo, Jingyi Yao, Wenlong Li, Li Zhang, Lei Zhang, Tongfei Wang</p>
+<p style="margin: 0;"><em>Journal of Visualized Experiments</em>, (235), 2026 (Published) · <a href="https://doi.org/10.3791/71693">doi:10.3791/71693</a></p>
+</div>
+</div>
 
-Yu Huang, Shikang Guan, **Yajie Zhang**, Fa Peng, Tong Guo, Jingyi Yao, Wenlong Li, Li Zhang, Lei Zhang, Tongfei Wang
-
-*Journal of Visualized Experiments*, (235), 2026 (Published) · [doi:10.3791/71693](https://doi.org/10.3791/71693)
-
-<p style="margin-top: 1.2em;"><strong>[2] HIBER-MAP: a multimodal platform for high-throughput hibernation monitoring and arousal prediction in ground squirrels</strong></p>
-
-Hao Huang*, Qihui Jia*, Wendi Shi*, **Yajie Zhang**, Haojun Sang, Xin Xing, Yu Zhou, Xueting Sun, Lei Zhang, Tongfei A. Wang
-
-<p><small>* These authors contributed equally to this work.</small></p>
-
-[SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279059) (Cell Press Sneak Peek), 2026 (Under Review)
+<div style="display: grid; grid-template-columns: 2.8em 1fr; column-gap: 0.8em; margin-top: 1.4em;">
+<div style="text-align: right;">[2]</div>
+<div>
+<p style="margin: 0 0 0.4rem;"><strong>HIBER-MAP: a multimodal platform for high-throughput hibernation monitoring and arousal prediction in ground squirrels</strong></p>
+<p style="margin: 0 0 0.4rem;">Hao Huang*, Qihui Jia*, Wendi Shi*, <strong>Yajie Zhang</strong>, Haojun Sang, Xin Xing, Yu Zhou, Xueting Sun, Lei Zhang, Tongfei A. Wang</p>
+<p style="margin: 0 0 0.4rem;"><small>* These authors contributed equally to this work.</small></p>
+<p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279059">SSRN Preprint</a> (Cell Press Sneak Peek), 2026 (Under Review)</p>
+</div>
+</div>
 
 ## Research Experience
 
