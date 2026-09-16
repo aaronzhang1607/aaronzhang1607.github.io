@@ -22,6 +22,10 @@ Welcome to my personal website. Research notes and posts are collected under [Po
 
 3. **Universal single-cell RNA modification sequencing techniques.** Tagmentation of RNA/DNA hybrids still keeps the RNA strand, which may preserve the RNA modification information. This may help stabilize the RNA and make unbiased single-cell-level RNA modification research possible.
 
+## Publications
+
+1. Huang, Y., Guan, S., **Zhang, Y.**, Peng, F., Guo, T., Yao, J., Li, W., Zhang, L., Zhang, L., & Wang, T. (2026). A Multimodal Assay to Infer Body Temperature Set-Point Shifts in Freely Moving Mice. *Journal of Visualized Experiments*, (235). [doi:10.3791/71693](https://doi.org/10.3791/71693)
+
 ## Research Experience
 
 ### Thermoregulation under Hibernation-like State in Rodents with Single-Cell Sequencing
