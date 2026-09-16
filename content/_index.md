@@ -16,11 +16,29 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 
 ## Research Interest
 
-1. **Single-cell multi-omics with computational simulation.** By using the CRISPRi system and single-cell sequencing, distinct gene expression patterns can be detected at the same time. With the help of machine-learning algorithms, a phenotype prediction model of gene knock-outs may change the way research is started.
+<div style="display: grid; grid-template-columns: 2.8em 1fr; column-gap: 0.8em; margin-top: 1.4em;">
+<div style="text-align: right;">[1]</div>
+<div>
+<p style="margin: 0 0 0.35rem;"><strong>Single-cell multi-omics with computational simulation.</strong></p>
+<p style="margin: 0;">By using the CRISPRi system and single-cell sequencing, distinct gene expression patterns can be detected at the same time. With the help of machine-learning algorithms, a phenotype prediction model of gene knock-outs may change the way research is started.</p>
+</div>
+</div>
 
-2. **Fundamental physiology regulation mechanisms.** Basic behaviors are usually the most important and essential — once living beings lose control of them, survival is at stake. Understanding their regulation will help us better resolve the magic biological world.
+<div style="display: grid; grid-template-columns: 2.8em 1fr; column-gap: 0.8em; margin-top: 1.4em;">
+<div style="text-align: right;">[2]</div>
+<div>
+<p style="margin: 0 0 0.35rem;"><strong>Fundamental physiology regulation mechanisms.</strong></p>
+<p style="margin: 0;">Basic behaviors are usually the most important and essential — once living beings lose control of them, survival is at stake. Understanding their regulation will help us better resolve the magic biological world.</p>
+</div>
+</div>
 
-3. **Universal single-cell RNA modification sequencing techniques.** Tagmentation of RNA/DNA hybrids still keeps the RNA strand, which may preserve the RNA modification information. This may help stabilize the RNA and make unbiased single-cell-level RNA modification research possible.
+<div style="display: grid; grid-template-columns: 2.8em 1fr; column-gap: 0.8em; margin-top: 1.4em;">
+<div style="text-align: right;">[3]</div>
+<div>
+<p style="margin: 0 0 0.35rem;"><strong>Universal single-cell RNA modification sequencing techniques.</strong></p>
+<p style="margin: 0;">Tagmentation of RNA/DNA hybrids still keeps the RNA strand, which may preserve the RNA modification information. This may help stabilize the RNA and make unbiased single-cell-level RNA modification research possible.</p>
+</div>
+</div>
 
 ## Publications
 
@@ -45,7 +63,7 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 
 ## Research Experience
 
-### Thermoregulation under Hibernation-like State in Rodents with Single-Cell Sequencing
+### [1] Thermoregulation under Hibernation-like State in Rodents with Single-Cell Sequencing
 
 <p class="experience-meta"><em>Aug 2020 – Present · Adviser: Dr. Tongfei Wang · CIBR</em></p>
 
@@ -54,7 +72,7 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 - Induced daily torpor in mice with fasting and collected cell samples with SMART-Seq3xpress.
 - Developing a new multi-omics sequencing method aimed at optimizing the time schedule and improving library quality.
 
-### YTHDF2 Function in *Xenopus tropicalis*' Early Development
+### [2] YTHDF2 Function in *Xenopus tropicalis*' Early Development
 
 <p class="experience-meta"><em>Bachelor Thesis · Jun 2019 – Jun 2020 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech</em></p>
 
@@ -63,7 +81,7 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 - *ythdf2*<sup>-/-</sup> embryos developed slower than usual and failed to pass stage 8, while *ythdf2*<sup>-/-</sup> sperm did not influence development.
 - YTHDF2 protein shows maternal-dependent effects in embryos, either by direct influence or by affecting other proteins' translation process.
 
-### The Function Analysis of TBX5 during Forelimb Formation and Heart Regeneration
+### [3] The Function Analysis of TBX5 during Forelimb Formation and Heart Regeneration
 
 <p class="experience-meta"><em>Jun 2018 – Aug 2018 · Adviser: Assoc. Prof. Yonglong Chen · SUSTech</em></p>
 
@@ -71,7 +89,7 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 - *Xenopus* animal breeding and rearing; cross and genotyping for *tbx5* functional knock-out animals.
 - *tbx5*<sup>-/-</sup> animals show forelimb developmental deformity with moderate heart development defects.
 
-### Kindlin2 in Breast Cancer Cell Migration
+### [4] Kindlin2 in Breast Cancer Cell Migration
 
 <p class="experience-meta"><em>Oct 2017 – Jan 2018 · Adviser: Assoc. Prof. Ying Sun · SUSTech</em></p>
 
