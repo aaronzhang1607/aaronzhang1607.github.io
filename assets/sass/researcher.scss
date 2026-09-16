@@ -9,7 +9,7 @@ $red: {{ .Param "style.colorRed" | default "#dc3545" }};
 // Font
 $font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
 $font-size: {{ .Param "style.fontSize" | default "14pt" }};
-$sans-stack: {{ .Param "style.sansStack" | default "-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" }};
+$sans-stack: {{ .Param "style.sansStack" | default "-apple-system, system-ui, Arial, sans-serif" }};
 
 // Margins
 $y-small: 0.6rem;

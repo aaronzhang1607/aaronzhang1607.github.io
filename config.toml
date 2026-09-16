@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
     [params.style]  # appearance options
         fontFamily = "Inconsolata"
         fontSize = "17px"
-        sansStack = "-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        sansStack = "-apple-system, system-ui, Arial, sans-serif"
         pageWidth = "750px"
         avatarSize = "105px"
         colorBlack = "#222222"
