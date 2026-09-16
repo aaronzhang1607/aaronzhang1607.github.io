@@ -88,7 +88,7 @@ $y-medium: 1.0rem;
     .avatar > img {
         border-radius: 50%;
         float: right;
-        margin: -8px 0 0 16px;
+        margin: -8px 0 14px 16px;
         height: $avatar-size;
         width: $avatar-size;
     }
@@ -125,15 +125,18 @@ $y-medium: 1.0rem;
         padding-left: 0;
     }
     ul {
-        list-style: inside;
-        padding-left: 2rem;
-        & > li {
-            list-style-position: outside;
-            margin-left: 1em;
-        }
-    }
-    .container > ul, .footnotes > ul {
+        list-style: none;
+        margin: 0;
         padding-left: 0;
+        & > li {
+            position: relative;
+            padding-left: 1.3em;
+        }
+        & > li::before {
+            content: "\2022";
+            position: absolute;
+            left: 0.15em;
+        }
     }
     table {
         margin: $y-medium auto;
@@ -154,6 +157,9 @@ $y-medium: 1.0rem;
         font-style: italic;
         margin: $y-medium 0;
         padding: 8px 8px;
+    }
+    hr {
+        clear: right;
     }
     code {
         color: $black;
