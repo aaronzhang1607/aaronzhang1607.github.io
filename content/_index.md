@@ -30,9 +30,9 @@ Yu Huang, Shikang Guan, **Yajie Zhang**, Fa Peng, Tong Guo, Jingyi Yao, Wenlong 
 
 *Journal of Visualized Experiments*, (235), 2026 (Published) · [doi:10.3791/71693](https://doi.org/10.3791/71693)
 
-<p style="margin-top: 1.2em;"><strong>HIBER-MAP: A Multimodal Toolbox for High-Throughput Hibernation Monitoring and Arousal Prediction in Ground Squirrels</strong></p>
+<p style="margin-top: 1.2em;"><strong>HIBER-MAP: a multimodal platform for high-throughput hibernation monitoring and arousal prediction in ground squirrels</strong></p>
 
-Hao Huang, Qihui Jia, Tongfei A. Wang, et al.
+Hao Huang, Qihui Jia, Wendi Shi, **Yajie Zhang**, Haojun Sang, Xin Xing, Yu Zhou, Xueting Sun, Lei Zhang, Tongfei A. Wang
 
 [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279059) (Cell Press Sneak Peek), 2026 (Under Review)
 
