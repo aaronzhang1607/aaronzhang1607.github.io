@@ -1,0 +1,15 @@
+<div id="footer" class="mb-5">
+    <hr>
+    {{ if .Site.Params.socialIcons }}
+    <div class="container text-center">
+        {{ range $item := .Site.Params.socialIcons }}
+            <a class="social-icon" href="{{ $item.url }}" title="{{ $item.title }}" aria-label="{{ $item.title }}" rel="me">{{ partial (printf "icons/%s.html" $item.icon) $item }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ with .Site.Params.footer }}
+        <div class="container text-center">
+            <a href="{{ .url | absURL }}" title="{{ .text }}" {{ if .blank }}target="_blank"{{ end }}><small>{{ .text }}</small></a>
+        </div>
+    {{ end }}
+</div>

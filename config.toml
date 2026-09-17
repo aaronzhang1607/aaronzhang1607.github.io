@@ -1,5 +1,5 @@
 baseURL = "https://aaronzhang1607.github.io"
-languageCode = "en-us"
+locale = "en-us"
 title = "Yajie Zhang website"
 theme = "researcher"
 enableEmoji = true
@@ -7,11 +7,12 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
+    lang = "en"
     author = "Yajie Zhang"
     description = "Research Assistant @ WangLab (CIBR) · Hibernation"
     favicon = "favicon.ico"
     [params.style]  # appearance options
-        fontFamily = "Inconsolata"
+        fontFamily = "Inconsolata, ui-monospace, Consolas, monospace"
         fontSize = "17px"
         sansStack = "-apple-system, system-ui, Arial, sans-serif"
         pageWidth = "750px"
@@ -19,7 +20,7 @@ disableKinds = ["taxonomy", "term"]
         colorBlack = "#222222"
         colorRed = "#1a4d8f"  # muted academic blue used for links, numbers, menu
     [[params.socialIcons]]
-        icon = "fab fa-github"
+        icon = "github"
         title = "GitHub"
         url = "https://github.com/aaronzhang1607"
 

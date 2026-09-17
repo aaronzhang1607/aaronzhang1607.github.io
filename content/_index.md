@@ -4,9 +4,18 @@ title = "Yajie Zhang website"
 
 {{< figure class="avatar" src="/avatar.svg" alt="Yajie Zhang" >}}
 
-<div class="site-name">Yajie Zhang</div>
+<h1 class="site-name">Yajie Zhang</h1>
 
 <div class="site-role">Research Assistant @ WangLab (CIBR) · Hibernation</div>
+
+<nav class="site-nav" aria-label="Sections">
+<a href="#research-interest">Research</a>
+<a href="#publications">Publications</a>
+<a href="#research-experience">Experience</a>
+<a href="#education">Education</a>
+<a href="#experimental-skills">Skills</a>
+<a href="#achievements--awards">Awards</a>
+</nav>
 
 ---
 
@@ -119,9 +128,13 @@ Welcome to my website. Research notes and posts are collected under [Posts](/pos
 
 ## Education
 
-| Degree | University | Year |
-|--------|-----------|------|
-| BSc. (Biological Sciences) | Southern University of Science and Technology (SUSTech), Shenzhen, China | 2016 – 2020 |
+<div class="grid-list">
+<div class="g-num">[1]</div>
+<div class="g-body">
+<h3 class="g-title">BSc. (Biological Sciences)</h3>
+<p class="experience-meta"><em>2016 – 2020 · Southern University of Science and Technology (SUSTech), Shenzhen, China</em></p>
+</div>
+</div>
 
 ## Experimental Skills
 
