@@ -20,6 +20,14 @@ disableKinds = ["taxonomy", "term"]
         colorBlack = "#222222"
         colorRed = "#1a4d8f"  # muted academic blue used for links, numbers, menu
     [[params.socialIcons]]
+        icon = "orcid"
+        title = "ORCID"
+        url = "https://orcid.org/0009-0009-1476-0821"
+    [[params.socialIcons]]
+        icon = "google-scholar"
+        title = "Google Scholar"
+        url = "https://scholar.google.com/citations?user=Ag6g7RYAAAAJ"
+    [[params.socialIcons]]
         icon = "github"
         title = "GitHub"
         url = "https://github.com/aaronzhang1607"

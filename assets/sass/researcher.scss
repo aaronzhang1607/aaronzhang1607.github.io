@@ -232,9 +232,12 @@ $y-medium: 1.0rem;
     a {
         @extend %link-dark;
     }
-    .social-icon svg {
-        height: 1em;
-        vertical-align: -0.125em;
-        width: 1em;
+    .social-icon {
+        margin: 0 0.5em;
+        svg {
+            height: 1em;
+            vertical-align: -0.125em;
+            width: 1em;
+        }
     }
 }
